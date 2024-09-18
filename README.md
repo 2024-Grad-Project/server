@@ -1,5 +1,5 @@
 # Node.js Template
-본 템플릿은 소프트스퀘어드 서버 교육용 Node.js 템플릿 입니다. (2022 ver.)
+본 템플릿은  Node.js 템플릿 입니다. (2022 ver.)
 
 ## ✨Common
 ### REST API
